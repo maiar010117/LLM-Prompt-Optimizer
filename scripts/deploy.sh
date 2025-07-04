@@ -122,3 +122,4 @@ apply_k8s_manifests
 # Hash 7011
 # Hash 7301
 # Hash 7773
+# Hash 6992
